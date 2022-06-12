@@ -1,0 +1,6 @@
+name: InfinityTerrainScreenFix
+version: '${version}'
+main: ru.skywatcher_2019.infinityterrainscreenfix.InfinityTerrainScreenFix
+api-version: 1.16
+load: STARTUP
+authors: [ SkyWatcher_2019 ]
